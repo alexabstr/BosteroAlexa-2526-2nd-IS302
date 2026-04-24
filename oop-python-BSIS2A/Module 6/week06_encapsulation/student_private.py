@@ -10,5 +10,7 @@ class Student:
         print("GPA:", self.__gpa)
 
 
-student1 = Student("Juan", "2023-001", 1.75)
+student1 = Student("Alexa", "2023-001", 1.75)
 student1.get_student_info()
+
+# Name: Bostero, Alexa C.
