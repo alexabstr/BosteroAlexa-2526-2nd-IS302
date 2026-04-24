@@ -14,3 +14,5 @@ class Dog(Animal):
 dog1 = Dog("Buddy")
 dog1.speak()
 dog1.bark()
+
+# Name: Bostero, Alexa C.
