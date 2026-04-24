@@ -15,3 +15,5 @@ class Car(Vehicle):
 
 car1 = Car("Toyota", "Corolla", 2022)
 car1.display_car()
+
+# Name: Bostero, Alexa C.
