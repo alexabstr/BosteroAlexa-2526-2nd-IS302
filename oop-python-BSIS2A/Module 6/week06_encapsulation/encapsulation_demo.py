@@ -10,6 +10,8 @@ class Person:
         return self.__age
 
 
-p1 = Person("Maria", 20)
+p1 = Person("Alexa", 20)
 print("Name:", p1.get_name())
 print("Age:", p1.get_age())
+
+# Name: Bostero, Alexa C.
