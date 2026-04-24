@@ -24,3 +24,5 @@ class Product:
 
 product = Product("Laptop", 45000, 10)
 product.get_product_info()
+
+# Name: Bostero, Alexa C.
