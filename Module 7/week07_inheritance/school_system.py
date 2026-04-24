@@ -36,3 +36,5 @@ student1.display_info()
 
 print("\nTeacher Info:")
 teacher1.display_info()
+
+# Name: Bostero, Alexa C.
