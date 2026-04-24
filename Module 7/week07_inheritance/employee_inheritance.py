@@ -15,7 +15,7 @@ class Manager(Employee):
         print("Department:", self.department)
 
 
-manager1 = Manager("John", 50000, "IT")
+manager1 = Manager("Kaith", 50000, "IT")
 manager1.display_manager()
 
 # Name: Bostero, Alexa C.
