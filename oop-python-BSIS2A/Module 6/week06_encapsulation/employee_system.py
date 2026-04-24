@@ -11,6 +11,8 @@ class Employee:
         return self.__salary
 
 
-emp = Employee("Ana")
+emp = Employee("Alex")
 emp.set_salary(30000)
 print("Salary:", emp.get_salary())
+
+# Name: Bostero, Alexa C.
